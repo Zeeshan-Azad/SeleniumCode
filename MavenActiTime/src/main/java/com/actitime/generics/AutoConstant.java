@@ -2,7 +2,7 @@ package com.actitime.generics;
 
 public interface AutoConstant {
 	String url="https://demo.actitime.com";
-	String sheetName="EmployeeInformation";
-	String fileName="FrameworkData";
+	String excel_path="./testData/FrameworkData.xlsx";
+	String sheet_name="EmployeeInformation";
 	
 }
